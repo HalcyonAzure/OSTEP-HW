@@ -17,3 +17,7 @@
 #### 第6章: 机制：受限直接执行
 
 * [OSTEP-上下文切换开销](https://halc.top/2022/03/25/ostep-homework-3.html)
+
+#### 第7章：进程调度：介绍
+
+* [OSTEP-进程调度方法](https://halc.top/2022/03/28/ostep-homework-4.html)
