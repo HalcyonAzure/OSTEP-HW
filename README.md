@@ -25,3 +25,8 @@
 #### 第8章：多级反馈队列
 
 * [OSTEP-多级反馈队列](https://halc.top/2022/04/05/ostep_hw_5/)
+
+#### 第9章：调度：比例份额
+
+* [OSTEP-比例份额调度](https://halc.top/2022/04/05/ostep_hw_5/)
+    > [PyPlot - 概率图生成](./Lottery/chart.py)
