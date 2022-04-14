@@ -28,5 +28,9 @@
 
 #### 第9章：调度：比例份额
 
-* [OSTEP-比例份额调度](https://halc.top/2022/04/05/ostep_hw_5/)
+* [OSTEP-比例份额调度](https://halc.top/2022/04/09/ostep_hw_6/)
     > [PyPlot - 概率图生成](./lottery/chart.py)
+
+#### 第14章：插叙：内存操作API
+
+* [OSTEP-内存操作API](https://halc.top/2022/04/10/ostep-hw_7/)
