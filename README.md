@@ -39,3 +39,7 @@
 
 * [OSTEP-地址转换](https://halc.top/p/1724953e)
     > [概率图代码](./vm-mechanism/draft.py)
+
+### 第16章：分段
+
+* [OSTEP-分段](https://halc.top/p/783d8b13)
