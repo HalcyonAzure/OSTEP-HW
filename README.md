@@ -43,3 +43,7 @@
 ### 第16章：分段
 
 * [OSTEP-分段](https://halc.top/p/783d8b13)
+
+### 第17章：空闲空间管理
+
+* [OSTEP-空闲空间管理](https://halc.top/p/3d85131)
