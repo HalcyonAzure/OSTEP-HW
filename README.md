@@ -47,3 +47,12 @@
 ### 第17章：空闲空间管理
 
 * [OSTEP-空闲空间管理](https://halc.top/p/3d85131)
+
+## 第18章：分页介绍
+
+* [OSTEP-分页介绍](https://halc.top/p/44838b9c)
+
+## 第19章：实际操作系统的TLB表项
+
+* [OSTEP-实际操作系统的TLB表项](https://halc.top/p/20416971)
+    > [概率图代码](./vm-paging/draft.py)
