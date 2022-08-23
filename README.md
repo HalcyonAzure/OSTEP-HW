@@ -54,7 +54,7 @@
 
 ### 第19章：实际操作系统的TLB表项
 
-* [OSTEP-实际操作系统的TLB表项](https://halc.top/p/20416971)
+* [OSTEP-实际操作系统的TLB表项](httpsssss://halc.top/p/20416971)
     > [概率图代码](./vm-paging/draft.py)
 
 ### 第20章：分页：较小的表
